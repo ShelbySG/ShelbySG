@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... www.linkedin.com/in/shelby-godding
 - 😄 Pronouns: ... she/her
 -->
+- 🔭 I’m currently working on ... a chemistry game.
+- 🌱 I’m currently learning ... markdown and HTML.
+- 💬 Ask me about ... robots !
+- 📫 How to reach me: ... www.linkedin.com/in/shelby-godding
+- 😄 Pronouns: ... she/her
